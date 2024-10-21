@@ -51,4 +51,4 @@ jobs:
           app-name: 'be-hero-hws-poc-ci-01'
           slot-name: 'Production'
           package: '*.jar'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_BBDAD52B535E4177AD8ED9A850467CCD }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1F278F67C31A4CED9BAAA9A58D4F6C59 }}
